@@ -1,35 +1,33 @@
 @import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700;900&display=swap');
 
-@media only screen and (min-width: 375px) {
-    body {
-        background: url(/images/pattern-background-desktop.svg) repeat-x #dae8fb;
-        font-family: 'Red Hat Display', sans-serif;
-        font-weight: 500;
-        text-align: center;
-    }
+body {
+    background: url(/images/pattern-background-desktop.svg) repeat-x #dae8fb;
+    font-family: 'Red Hat Display', sans-serif;
+    font-weight: 500;
+    text-align: center;
+}
 
-    .plan-title {
-        font-weight: 700;
-    }
+.plan-title {
+    font-weight: 700;
+}
 
-    .hero-img {
-        width: 100%;
-        border-radius: 15px 15px 0 0;
-    }
+.hero-img {
+    width: 100%;
+    border-radius: 15px 15px 0 0;
+}
 
-    .summary-main {
-        background-color: hsl(225, 100%, 98%);
-        width: 350px;
-        align-self: center;
-        margin: 5% auto 0;
-        border-radius: 15px;
-    }
+.summary-main {
+    background-color: hsl(225, 100%, 98%);
+    width: 350px;
+    align-self: center;
+    margin: 5% auto 0;
+    border-radius: 15px;
+}
 
-    .summary-text {
-        padding: 0 40px 30px;
-    }
+.summary-text {
+    padding: 0 40px 30px;
+}
 
-    .summary-title {
-        font-weight: 900;
-    }
+.summary-title {
+    font-weight: 900;
 }
