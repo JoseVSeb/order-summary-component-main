@@ -16,6 +16,33 @@ body {
     border-radius: 15px 15px 0 0;
 }
 
+.music-img {
+    float: left;
+    margin: 10px 10px 10px 0;
+}
+
+.plan-details {
+    float: left;
+    margin: 10px;
+    text-align: left;
+}
+
+.plan-change {
+    text-align: right;
+}
+
+.payment-links {
+    clear: both;
+}
+
+.summary-plan {
+    margin: 20px 0;
+    padding: 0 10px;
+    height: 65px;
+    background-color: hsl(225, 100%, 98%);
+    border-radius: 10px;
+}
+
 .summary-main {
     background-color: #ffffff;
     width: 350px;
