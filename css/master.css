@@ -7,6 +7,16 @@ body {
     text-align: center;
 }
 
+a {
+    color: hsl(245, 75%, 52%);
+    font-weight: 700;
+}
+
+.cancel-link {
+    text-decoration: none;
+    color: rgb(128, 127, 129);
+}
+
 .plan-title {
     font-weight: 700;
 }
