@@ -25,6 +25,10 @@
         border-radius: 15px;
     }
 
+    .summary-text {
+        padding: 0 40px 30px;
+    }
+
     .summary-title {
         font-weight: 900;
     }
