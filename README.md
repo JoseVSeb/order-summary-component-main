@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/JoseVSeb/order-summary-component-main)
-- Live Site URL: [Add live site URL here](https://josevseb.github.io/order-summary-component-main/index.html)
+- Solution URL: [](https://github.com/JoseVSeb/order-summary-component-main)
+- Live Site URL: [](https://josevseb.github.io/order-summary-component-main/index.html)
 
 ## My process
 
