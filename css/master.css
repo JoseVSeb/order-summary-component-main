@@ -12,6 +12,12 @@ a {
     font-weight: 700;
 }
 
+.attribution {
+    position: fixed;
+    right: 0;
+    top: 0;
+}
+
 .cancel-link {
     text-decoration: none;
     color: rgb(128, 127, 129);
